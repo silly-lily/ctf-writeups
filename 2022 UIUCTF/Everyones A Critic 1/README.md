@@ -1,8 +1,8 @@
 <h1>Challenge</h1>
 
-`<p>`The Challenge asks you to find a video game reviews content creator who has somehow ended up reviewing UIUCTF on the UIUCTF Discord. First I opened my computer's discord app, then I went to the UIUCTF discord server. I then searched for "review" in the top right hand corner.`</p>`
+<p>The Challenge asks you to find a video game reviews content creator who has somehow ended up reviewing UIUCTF on the UIUCTF Discord. First I opened my computer's discord app, then I went to the UIUCTF discord server. I then searched for "review" in the top right hand corner.</p>
 
-`<img src="search.png" alt="Search Results">`
+`<img src="search.png" alt="Search">`
 
 <h1>Messages</h1>
 
