@@ -9,7 +9,7 @@ We notice the first user had the same name and profile picture as the discord us
 ![YouTube](youtube.png)
 
 # Playlists
-We explore his channel by looking at every category: `Home`, `Videos`, `Playlists`, `Channels`, and `About`. We notice he has a playlist.
+We explore his channel by looking at every category: `HOME`, `VIDEOS`, `PLAYLSITS, `CHANNELS`, and `ABOUT`. We notice he has a playlist.
 
 ![Playlists](playlists.png)
 
