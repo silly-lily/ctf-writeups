@@ -1,9 +1,12 @@
-<h1>Challenge</h1>
+# Challenge
+We need to find Chuck Lephucke's twitter.
 
-`<br>`The challenge grows off of Everyone's A Critic 1, 2, and 3. The reviewer `with the YouTube and the Discord account also has a Twitter. First I went to Twitter and searched for Chuck.Lepuche</br>`
+# Search
+We open Twitter and search `Chuck Lephucke`. He first user is the user we are targeting. 
 
-<h1>Flag</h1>
+![Search](search.png)
 
-`<br>`I looked at the banner and saw the flag.`</br>`
+# Flag
+We click on his profile to view it and the flag is in the banner of his profile.
 
-`<img src="flag.png" alt="Flag">`
+![Flag](flag.png)

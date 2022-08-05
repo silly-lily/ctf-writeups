@@ -1,17 +1,19 @@
-<h1>Challenge</h1>
+# Challenge
+We need to find the video game reviewer reviewing UIUCTF on the UIUCTF discord. 
 
-`<br>`The Challenge asks you to find a video game reviews content creator who has somehow ended up reviewing UIUCTF on the UIUCTF Discord. First I opened my computer's discord app, then I went to the UIUCTF discord server. I then searched for "review" in the top right hand corner.`</br>`
+# Search
+First we search messages in the server for `review`.
 
-`<img src="search.png" alt="Search">`
+![Search](search.png)
 
-<h1>Messages</h1>
+# Messages
 
-`<br>`I noticed the discord user Chuck.Lephuke wrote that he was going to review the event in the introductions channel, so I decided to look closer at his messages.`</br>`
+We notice that user `chuck.lephucke` said he was going to review uIUCTF.
 
-`<img src="messages.png" alt="Chuck.Lephuke's messages">`
+![Chuck.Lephuke's messages](messages.png)
 
-<h1>Flag</h1>
+# Flag
 
-`<br>`Upon finding these messages, I decided to take a look at Chuck.Lephuke's discord profile. I clicked on his name and found the flag as a discord role.`</br>`
+We take a closer look at his profile and find the flag `uiuctf{this_flag_is_not_bait}`.
 
-`<img src="flag.png" alt="Flag">`
+![flag](flag.png)

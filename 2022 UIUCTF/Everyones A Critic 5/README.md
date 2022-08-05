@@ -1,17 +1,17 @@
-<h1>Challenge</h1>
+# Challenge
+We need to find Chuck Lephucke's Steam.
 
-`<br>`The challenge grows off of Everyone's A Critic 1, 2, and 3. The reviewer `with the YouTube, Twitter, and Discord also has a Steam account. First I opened the Steam app, clicked on friends, clicked on add friend. Then I searched by profile or username for "Chuck Lephucke".</br>`
+# Search
+First we search for friends. We search for `chuck lephucke`.
 
-`<img src="search.png" alt="Search">`
+![Search](search.png)
 
-<h1>Profile</h1>
+# Profile
+We click on profile. 
 
-`<br>`I clicked on the profile and then the reviews.`</br>`
+![Profile](profile.png)
 
-`<img src="profile.png" alt="Profile">`
+# Flag
+Then we click on reviews and find the flag.
 
-<h1>Flag</h1>
-
-`<br>`I then saw the flag in the review.`</br>`
-
-`<img src="flag.png" alt="Flag">`
+![Flag](flag.png)
