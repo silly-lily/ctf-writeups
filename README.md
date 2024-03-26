@@ -1,3 +1,3 @@
 # ctf-writeups
 
-silly-lillys ctf writeups
+my ctf writeups
